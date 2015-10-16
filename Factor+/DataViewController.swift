@@ -19,6 +19,7 @@ class DataViewController: UIViewController {
         print("test")
         print("john was here")
         print("Leo Was here")
+        print("Am I here?")
         // Do any additional setup after loading the view, typically from a nib.
     }
 
