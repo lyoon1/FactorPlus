@@ -18,6 +18,7 @@ class DataViewController: UIViewController {
         super.viewDidLoad()
         print("test")
         print("john was here")
+        print("Leo Was here")
         // Do any additional setup after loading the view, typically from a nib.
     }
 
